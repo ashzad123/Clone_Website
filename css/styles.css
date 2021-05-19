@@ -1,0 +1,43 @@
+.profile{
+  float: left;
+}
+.list{
+  list-style-type: square;
+  padding-left: 225px;
+  color: blue;
+}
+.question{
+  font-style: italic;
+  margin-bottom: 0px;
+}
+.profile{
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+hr{
+  line-height: 1;
+}
+.answer{
+  margin-left: 20px;
+  margin-top: 2px;
+}
+.About{
+  padding-top: 5px;
+  margin-left: 10px;
+}
+h2{
+  margin-left: 200px;
+  margin-top: 0;
+}
+.end{
+  float: left;
+}
+.intro{
+  margin-left: 200px;
+}
+.ending{
+  padding-left: 44px;
+}
+a{
+  color: blue;
+}
